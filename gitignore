@@ -1,0 +1,8 @@
+# generated output
+gex_*.csv
+gex_*.html
+*.json
+
+# python
+__pycache__/
+*.pyc
